@@ -24,6 +24,13 @@ body {
      margin-left: 10%;
      font-size:4vw;}
 
+  a:link {
+    color: black;
+    /*     background-color: transparent;*/
+    text-decoration: none;
+    }
+  a {color: black;}
+
 /*
 #background {
     width: 100%;
